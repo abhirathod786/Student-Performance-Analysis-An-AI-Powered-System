@@ -1,4 +1,4 @@
-# 🎓 Advanced Student Performance Prediction System
+# 🎓 Student Performance Analysis- An AI Powered System
 
 **B.Tech Final Year Project - Research Grade Implementation**
 
@@ -343,5 +343,6 @@ MIT License - Academic Use
 ---
 
 **Built with ❤️ and Advanced Machine Learning**
+
 
 *© 2024-2025 SAI KIRAN | VTU's CPGS Kalaburagi*
