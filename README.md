@@ -334,15 +334,14 @@ MIT License - Academic Use
 
 **ABHISHEK**
 - Roll No: 3VY22UE002
-- Department: Electronics & Communication
+- Department: Electronics & Communication Engineering
 - Institution: VTU's CPGS, Kalaburagi
-- Email: [your-email]
-- LinkedIn: [your-linkedin]
-- GitHub: [your-github]
+- Email: abhishekrc57@gmail.com
 
 ---
 
 **Built with ❤️ and Advanced Machine Learning**
 
 
-*© 2024-2025 SAI KIRAN | VTU's CPGS Kalaburagi*
+*© 2024-2025 ABHISHEK | VTU's CPGS Kalaburagi*
+
