@@ -565,10 +565,7 @@ elif page == "📄 Export Report":
             file_name=f"Report_{student['student_id']}_{datetime.now().strftime('%Y%m%d')}.txt",
             mime="text/plain"
         )
-
-    ### 📊 Statistics:
-    """)
-    
+ 
     col1, col2, col3 = st.columns(3)
     with col1:
         st.metric("Total Students", len(data))
@@ -577,4 +574,5 @@ elif page == "📄 Export Report":
     with col3:
         st.metric("Avg CGPA", f"{data['overall_cgpa'].mean():.2f}")
     
+
 
